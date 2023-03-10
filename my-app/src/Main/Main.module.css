@@ -1,0 +1,79 @@
+.mainPage{
+    background-color: #f4f9e5;
+}
+.mainPage nav{
+    display: flex;
+    justify-content: space-between;
+}
+.mainPage nav ul{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+.mainPage nav ul li {
+    margin-right: 10px;
+    font-family: 'Larsseit';
+font-size: 14px;
+line-height: 16px;
+color: #22356F;
+}
+.container{
+    width: 1340px;
+    margin: 0 auto;
+}
+.MainBlock{
+    display: flex;
+    justify-content: space-between;
+}
+span{
+    color: #62D0DF;
+    font-family: Larsseit;
+font-size: 24px;
+line-height: 27px;
+letter-spacing: -0.035em;
+text-align: left;
+}
+.contact{
+ background: #62D0DF;
+border-radius: 50px;
+border: 1px solid;
+color: white;
+width: 120px;
+}
+h1{
+font-family: Larsseit;
+font-size: 48px;
+line-height: 53px;
+letter-spacing: -0.035em;
+text-align: left;
+color: #22356F;
+}
+p{
+ font-family: 'Larsseit';
+font-size: 24px;
+line-height: 42px;
+color: #22356F;
+}
+h3{
+ font-family: 'Larsseit';
+font-size: 24px;
+line-height: 27px;
+letter-spacing: -0.035em;
+color: #62D0DF;
+}
+.pic{
+ 
+    left: 600px;
+}
+.who{
+background-color:#F9B640;
+border:1px solid;
+color: white;
+justify-content: space-between;
+margin: 20px;
+padding: 10px;
+}
+.who2{
+    color: #F9B640;
+    padding: 10px;
+}

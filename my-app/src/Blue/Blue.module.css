@@ -1,0 +1,40 @@
+.blue{
+    background-color:  #22356F;
+    margin: 0 auto;
+    height: 800px;
+}
+.black{
+margin-left: 869px;
+
+}
+h6{
+    margin-top: -700px;
+    font-family: Larsseit;
+font-size: 16px;
+line-height: 12px;
+letter-spacing: 0.06em;
+text-align: left;
+color: #ffffff;
+margin-left: 120px;
+}
+.red{
+    color:#ffffff;
+    margin-top: 220px;
+    margin-left: 200px;
+    font-size: 64px;
+}
+.tk{
+    font-family: 'Larsseit';
+font-size: 36px;
+line-height: 53px;
+letter-spacing: -0.005em;
+margin-left: 200px;
+color: #FFFFFF;
+}
+.get{
+    font-family: 'Larsseit';
+font-size: 16px;
+letter-spacing: 0.1em;
+color: #62D0DF;
+margin-left: 200px;
+}
